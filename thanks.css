@@ -1,0 +1,25 @@
+@import url("style.css");
+
+#titulo{
+  display: flex;
+  text-align: center;
+}
+
+
+button{
+  width: 200px;
+  height: 40px;
+  background-color:darkgoldenrod ;
+  cursor: pointer;
+  border-radius: 20px;
+
+}
+
+button:hover{
+  background-color: yellow;
+}
+
+a{
+  font-size: 18px;
+  color:black ;
+}
